@@ -1,6 +1,6 @@
 # Lab 1: Celsius to Fahrenheit Converter
 
-**Name:** Ivan Patrick Frondozo
+**Name:** Ivan Patrick 0 Frondozo
 
 ## Screenshot of Output
 
